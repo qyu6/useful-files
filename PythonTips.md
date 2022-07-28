@@ -1,5 +1,4 @@
-#### (2022.7.28更新)
-(Python Coding笔记)
+### (2022.7.28更新) | Python Coding笔记
 
 1.一键打开经常用的多个网页
 ```import webbrowser
@@ -10,7 +9,7 @@ websites = [
 ]
 for url in websites:
     webbrowser.open(url)
-    ```
+```
 
 2.在服务器中定位当前绝对路径
 ```
