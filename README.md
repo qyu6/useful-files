@@ -6,6 +6,8 @@
 | ---: | :--- |
 | Kaggle | https://www.kaggle.com/ |
 | Streamlit app部署平台 | https://share.streamlit.io/ |
+| pip清华镜像 | pip install -i https://pypi.tuna.tsinghua.edu.cn/simple some-package | 
+
 
 
 #### <工具>
@@ -20,6 +22,7 @@
 | Markdown文档官方教程 | https://markdown.com.cn/ |
 | DeepL翻译软件 | https://www.deepl.com/translator/ |
 | 在线EndNote | https://www.myendnoteweb.com/EndNoteWeb.html |
+| 清华开源镜像 | https://mirrors.tuna.tsinghua.edu.cn/help/pypi/ |
 
 
 #### <文献数据库>
