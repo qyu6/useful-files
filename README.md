@@ -85,7 +85,7 @@
 
 ---
 
-#### <BN马拉松>
+#### <Ponyo马拉松>
 | 主题 | 地址|
 |---:|:---|
 | 中国电子学会考评中心 | https://qceit.org.cn/bos/default.html |
