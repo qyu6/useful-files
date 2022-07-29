@@ -68,10 +68,13 @@
 | 论文索引数据库 | 地址 |
 | ---: | :--- |
 | SCI-Hub | https://www.sci-hub.st/|
-| arXiv (没经审稿论文的预发表，占坑，免费在线出版。原创性，上传时间戳) | https://arxiv.org/|
 | SAE (International) Mobilus | https://saemobilus.sae.org/ |
 | Springer | https://link.springer.com/ |
+| ScienceDirect | https://www.sciencedirect.com/|
+| ResearchGate 科研学术交流平台 | https://www.researchgate.net/ |
 | 中国知网 | https://www.cnki.net/ |
+| arXiv (没经审稿论文的预发表，占坑，免费在线出版。原创性，上传时间戳) | https://arxiv.org/|
+
 
 ---
 #### <专利>
