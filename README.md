@@ -40,7 +40,7 @@
 | 麦肯锡McKinsey | https://www.mckinsey.com/ |
 | 智源社区AI平台 | https://hub.baai.ac.cn/ |
 | GE数字化平台 | https://www.ge.com/digital/|
-| (KDD) Knowledge Discovery & Data Mining,  ACM 的知识发现及数据挖掘专委会 | https://kdd.org/|
+| (KDD) ACM的知识发现及数据挖掘专委会 | https://kdd.org/|
 
 ----
 
@@ -68,7 +68,7 @@
 | 论文索引数据库 | 地址 |
 | ---: | :--- |
 | SCI-Hub | https://www.sci-hub.st/|
-| arXiv - (论文发表服务器-没经审稿，预发表，占坑，免费出版，证明原创性，上传时间戳) | https://arxiv.org/|
+| arXiv (没经审稿论文的预发表，占坑，免费在线出版。原创性，上传时间戳) | https://arxiv.org/|
 | SAE (International) Mobilus | https://saemobilus.sae.org/ |
 | Springer | https://link.springer.com/ |
 | 中国知网 | https://www.cnki.net/ |
