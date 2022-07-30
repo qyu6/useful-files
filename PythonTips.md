@@ -24,3 +24,8 @@ create 'requirement.txt' file
 file format like 'pandas==0.1.1'
 then run 'pip install -r requirements.txt' in terminal
 ```
+
+4.pip清华镜像
+```
+pip install -i https://pypi.tuna.tsinghua.edu.cn/simple some-package
+```

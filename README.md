@@ -27,7 +27,6 @@
 | 中文开放知识图谱KG | http://openkg.cn/ |
 | Agile Data Science电子书 | https://edwinth.github.io/ADSwR/index.html |
 | 异常值诊断资料 | https://github.com/yzhao062/anomaly-detection-resources |
-| pip清华镜像 | pip install -i https://pypi.tuna.tsinghua.edu.cn/simple some-package | 
 
 ----
 
