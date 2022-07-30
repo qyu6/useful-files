@@ -46,6 +46,11 @@
 #### <工具>
 | 工具简介 | 地址 |
 | ---: | :--- |
+| 文献量化分析可视化VOSViewer | https://www.vosviewer.com/ |
+| 论文图表可视化Origin | https://www.originlab.com/|
+| LaTex | https://www.latex-project.org/| 
+| 英文论文写作神器(自动语法纠错和书写错误校验，Word中可以安装grammarly插件) | https://www.grammarly.com/ |
+| 多终端同步文档编辑器Zine | https://zine.la/|
 | Wikidata百科 | https://www.wikidata.org/wiki/Wikidata:Main_Page|
 | 微软爱写作 (英文论文自动修改) | https://aimwriting.mtutor.engkoo.com/ |
 | 在线制作词云图 | https://wordart.com/create|
