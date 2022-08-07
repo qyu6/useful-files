@@ -22,7 +22,7 @@
 
 
 ---
-<公式>
+<数学公式>
 - 行间公式 (自动换行,语法与行内公式都相同↓)`$$ xx $$` $$ xx $$
 - 行内公式 $ xx $
     - 估计值 $\hat{x}$  ,`$\hat{x}$`
@@ -31,6 +31,11 @@
     - 累乘 $\prod_{a}^{b}$, `$\prod_{a}^{b}$`
     - 上标 $a^{b}$,`$a^{b}$`
     - 下标 $a_{b}$,`$a_{b}$`
+    - 底标 $\underset {\Theta} min$ `$\underset {\Theta} min$`
+    - $\dot a$ `$\dot a$`
+    - $\dots$ `$\dots$`
+    - $\vdots$ `$\vdots$`
+    - $\ddots$ `$\ddots$`
     - 自适应高度的括号(如包含矩阵的括号) 
     $\left( 
         \begin{bmatrix}
@@ -110,6 +115,7 @@
 
 
     - 特殊数学字符
+        - $\mathbb R^{a\times b}$ `$\mathbb R^{a\times b}$`（矩阵符号 ）
         - $\partial$, `\partial` (偏导 | partial derivative )
         - $\alpha$, `$\alpha$`
         - $\beta$, `$\beta$`
@@ -148,6 +154,7 @@
         - $\geq$, `$\geq$`
         - $\ll$, `$\ll$`
         - $\gg$, `$\gg$`
+        - $\neq$, `$\neq$`
         - $\approx$, `$\approx$`
         - $\lim$, `$\lim$`
         - $\infty$, `$\infty$`
