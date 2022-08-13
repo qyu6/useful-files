@@ -31,6 +31,7 @@
     - 累乘 $\prod_{a}^{b}$, `$\prod_{a}^{b}$`
     - 上标 $a^{b}$,`$a^{b}$`
     - 下标 $a_{b}$,`$a_{b}$`
+    - 算数平均数 $\overline{x}$ `$\overline{x}$`
     - 底标 $\underset {\Theta} min$ `$\underset {\Theta} min$`
     - $\dot a$ `$\dot a$`
     - $\dots$ `$\dots$`
@@ -143,6 +144,7 @@
         - $\theta$, `$\theta$`
         - $\iota$, `$\iota$`
         - $\kappa$, `$\kappa$`
+        - $\vert\vert x \vert\vert$,`$\vert\vert x \vert\vert$`, 向量 $x$ 的范式
         - $\in$, `$\in$`
         - $\ni$, `$\ni$`
         - $\notin$, `$\notin$` 
@@ -160,18 +162,19 @@
         - $\infty$, `$\infty$`
         - $\uparrow$, `$\uparrow$`
         - $\downarrow$, `$\downarrow$`
-        - 空集： $\emptyset$, `$\emptyset$`
-        - 子集：$\subset$ $\supset$, `$\subset$ $\supset$`
-        - 非子集：$\not\subset$, `$\not\subset$`
-        - 真子集：$\subseteq$ $\supseteq$, `$\subseteq$ $\supseteq$`
-        - 并集：$\cup$ $\bigcup$, `$\cup$ $\bigcup$`
-        - 交集：$\cap$ $\bigcap$, `$\cap$ $\bigcap$`
-        - 导数：$\prime$, `$\prime$`
-        - 积分：$\int$, `$\int$`
-        - 双重积分：$\iint$, `$\iint$`
-        - 三重积分：$\iiint$, `$\iiint$`
-        - 曲线积分：$\oint$, `$\oint$`
-        - 梯度：$\nabla$, `$\nabla$`
+        - $\emptyset$, `$\emptyset$` 空集
+        - $\subset$ $\supset$, `$\subset$ $\supset$` 子集
+        - $\not\subset$, `$\not\subset$` 非子集
+        - $\subseteq$ $\supseteq$, `$\subseteq$ $\supseteq$` 真子集
+        - $\cup$ $\bigcup$, `$\cup$ $\bigcup$` 并集
+        - $\cap$ $\bigcap$, `$\cap$ $\bigcap$` 交集
+        - $\prime$, `$\prime$` 导数
+        - $\int$, `$\int$` 积分
+        - $\iint$, `$\iint$` 双重积分
+        - $\iiint$, `$\iiint$` 三重积分
+        - $\oint$, `$\oint$` 曲线积分
+        - $\nabla$, `$\nabla$` 梯度
+        - $\sim$, `$\sim$`
 
 
 
@@ -198,4 +201,4 @@
     - 在浏览器中选择打印功能（ctrl+p），选择‘导出为pdf’，即可将浏览器中看到的内容格式，完全保存到pdf中。（不要选microsoft print to pdf，仍然可能会有格式识别错误）
     - 另注：Markdown PDF第三方插件的PDF导出功能，不能识别复杂公式（包括网上说的改.vscode template的方法，效果都不够）。pandoc第三方插件功能有报错。
 
-
+- 参考：https://blog.csdn.net/oYinHeZhiGuang/article/details/119943358
