@@ -42,5 +42,7 @@ pip install -i https://pypi.tuna.tsinghua.edu.cn/simple some-package
     - 在vscode终端执行命令 `set-executionpolicy remotesigned`，再执行`get-executionpolicy`，执行结果显示 `remotesigned` 即可。默认情况下会显示 `remoterestricted`
     - 在vscode终端找到虚拟环境启动路径，输入./`activate` 启动虚拟环境，输入 `deactivate` 退出虚拟环境
     - 在vscode中的jupyter notebook中使用虚拟环境，在vscode-jupyter界面的右上角，选择-更改jupyter内核，可以看到虚机路径的选项，点击选择对应vm即可（如有必要，点击`ctrl+shift+p`，在`python：select interpreter` 中选择对应虚拟环境中的python.exe，选项前会有个五角星`☆`的标志）
+    - 导出虚拟环境，在虚拟环境目录中：`pip freeze>environment.yml`
+    - 安装虚拟环境，在目标路径中：`pip install -r environment.yml`
 1. vscode 中使用 git 同步项目：
     - 直接调出 vscode 命令行（ctrl+~），vscode 会自动识别在文件夹中的git文件。直接使用 `git add .`, `git commit -m 'x'`, `git push` 等命令 (如此就省去了在git bash中同步仓库文件的方法)
